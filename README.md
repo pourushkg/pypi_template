@@ -1,2 +1,2 @@
-## This is an IPYNB renderer python package 
+## PYPI python package template 
 
